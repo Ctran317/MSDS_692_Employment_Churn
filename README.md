@@ -27,4 +27,6 @@ Kelly, J. (2022 Jan). Reddit's Anti-Work Subreddit Shuts Down After An Awkward I
 
 Lee, W. (2021 Dec). Using Sklearn Pipelines to Streamline your Machine Learning Process. TowardsDataScience. Retrieved from https://towardsdatascience.com/using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b
 
+Ng, J. (2019 Oct). Customer Churn Classification Using Predictive Machine Learning Models. TowardsDataScience. Retrieved from https://jnyh.medium.com/customer-churn-classification-using-predictive-machine-learning-models-ab7ba165bf56
+
 Nuenen, T. (2022 Feb). Analyzing Reddit communities with Python — Part 5: topic modeling. TowardsDataScience. Retrieved from https://tomvannuenen.medium.com/analyzing-reddit-communities-with-python-part-5-topic-modeling-a5b0d119add
