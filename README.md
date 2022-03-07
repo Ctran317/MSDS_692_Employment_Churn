@@ -17,3 +17,14 @@ In the second part of the project, I analyzed subreddit 'antiwork' to determine 
 I performed unsupervised machine learning with LInear Discriminant Analysis (LDA). LDA is a classification algorithm that analyzes unstructured text data. It counts words and groups similar word patterns to infer topics within usnrctured data.
 
 Some challenges I ran into include having errors while loading the pyLDA package. When I load certain chunks of code below, the content runs fine. Another challenge involved sentiment analysis where the context of some words does not seem positive to me yet the model suugests they are positive. Overall, I would like to continue working with NLP and investigate employee churn in small businesses or other countries (i.e., culture and practices may differ.
+
+References
+Gaurav. (2021 Jun). An Introduction to Gradient Boosting Decision Trees. Machine Learning plus. Retrieved from https://www.machinelearningplus.com/machine-learning/an-introduction-to-gradient-boosting-decision-trees/
+
+Jung, C. (2020 Nov). Predict House Prices with Machine Learning
+
+Kelly, J. (2022 Jan). Reddit's Anti-Work Subreddit Shuts Down After An Awkward Interview Between A Moderator and Fox News Host Jesse Watters. Forbes. Retrieved from https://www.forbes.com/sites/jackkelly/2022/01/27/reddits-antiwork-subreddit-temporarily-shuts-down-after-an-awkward-interview-between-a-moderator-and-fox-news-star-jesse-watters/?sh=7d54d4d72878
+
+Lee, W. (2021 Dec). Using Sklearn Pipelines to Streamline your Machine Learning Process. TowardsDataScience. Retrieved from https://towardsdatascience.com/using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b
+
+Nuenen, T. (2022 Feb). Analyzing Reddit communities with Python — Part 5: topic modeling. TowardsDataScience. Retrieved from https://tomvannuenen.medium.com/analyzing-reddit-communities-with-python-part-5-topic-modeling-a5b0d119add
